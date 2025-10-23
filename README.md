@@ -3,9 +3,9 @@
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swastik1901" alt="swastik1901" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **Html, Generative AI**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **vardaan1901@gmail.com**
 
