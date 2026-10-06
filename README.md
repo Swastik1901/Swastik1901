@@ -3,7 +3,7 @@
 **B.Tech undergrad (AI/ML) @ Heritage Institute of Technology**, building at the intersection of privacy, networking, and web tech.
 
 - 🔐 Building **Sentin-AL** — a privacy-enforcing MITM proxy platform → [github.com/Swastik1901/sentin-al](https://github.com/Swastik1901/sentin-al)
-- 🏆 Hackathon finalist — **Smart Bengal Hackathon 2025** (Team Lead), **Hack n Solve, IGDTUW**
+- 🏆 Hackathon finalist — **Smart Bengal Hackathon 2025** (Team Lead), **Hack n Solve(IGDTUW**)
 - 🌱 Currently learning **JavaScript** and deepening my Python skills
 - 💬 Ask me about privacy tech, Node.js, or open source
 - 🌐 Open-source contributor — GirlScript Summer of Code 2024 (Postman project), onboarding with ECSoC 2026
