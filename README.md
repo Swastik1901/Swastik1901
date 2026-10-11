@@ -32,12 +32,8 @@ I'm a **full-stack developer** pursuing a **B.Tech in Artificial Intelligence & 
 
 <div align="center">
 
-<!-- Auto-generated daily by .github/workflows/profile-3d.yml -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
+<!-- Generated hourly by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" width="100%" />
 
 </div>
 
@@ -128,13 +124,8 @@ flowchart LR
 
 <div align="center">
 
-<!-- These are rendered fresh from the GitHub API on every load (cached a few hours by the service) -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Swastik1901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=14400" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik1901&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=Swastik1901&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Swastik1901&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies" />
+<!-- Generated hourly from the GitHub API by .github/workflows/profile-3d.yml -->
+<img src="./profile-stats/stats.svg" alt="Live GitHub stats" width="100%" />
 
 </div>
 
