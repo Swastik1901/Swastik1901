@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vardaan1901@gmail.com&su=Hello%20Swastik"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/github/followers/Swastik1901?style=for-the-badge&logo=github&color=0e75b6" alt="followers"/>
 </p>
 
