@@ -9,7 +9,7 @@
 <p>
   <a href="https://linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Swastik1901&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="views"/>
+  <img src="https://img.shields.io/github/stars/Swastik1901/sentin-al?style=for-the-badge&logo=github&color=7c3aed" alt="sentin-al stars"/>
   <img src="https://img.shields.io/github/followers/Swastik1901?style=for-the-badge&logo=github&color=0e75b6" alt="followers"/>
 </p>
 
