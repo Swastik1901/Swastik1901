@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0e75b6"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="840" height="300" rx="14" fill="#1a1b27"/>
+<rect x="1" y="1" width="838" height="298" rx="13" fill="none" stroke="url(#g)" stroke-width="2"/>
+<style>text{font-family:"Segoe UI",Ubuntu,Arial,sans-serif}.t{font-size:20px;font-weight:700;fill:#a78bfa}.l{font-size:14px;fill:#c0caf5}.v{font-size:14px;font-weight:700;fill:#7dcfff}.big{font-size:34px;font-weight:700;fill:#a78bfa}.s{font-size:12px;fill:#9aa5ce}</style>
+<text x="28" y="40" class="t">Swastik Kumar 's GitHub Stats</text>
+<text x="28" y="78" class="l">Stars earned</text>
+<text x="220" y="78" class="v" text-anchor="end">2</text>
+<text x="28" y="106" class="l">Commits (last 12 mo)</text>
+<text x="220" y="106" class="v" text-anchor="end">54</text>
+<text x="28" y="134" class="l">Pull requests</text>
+<text x="220" y="134" class="v" text-anchor="end">3</text>
+<text x="28" y="162" class="l">Issues</text>
+<text x="220" y="162" class="v" text-anchor="end">2</text>
+<text x="28" y="190" class="l">Public repos</text>
+<text x="220" y="190" class="v" text-anchor="end">8</text>
+<text x="28" y="218" class="l">Followers</text>
+<text x="220" y="218" class="v" text-anchor="end">13</text>
+<line x1="250" y1="60" x2="250" y2="240" stroke="#3b3d57"/>
+<text x="330" y="110" class="big" text-anchor="middle">64</text>
+<text x="330" y="132" class="s" text-anchor="middle">Contributions (12 mo)</text>
+<text x="330" y="190" class="big" text-anchor="middle">1</text>
+<text x="330" y="212" class="s" text-anchor="middle">Current streak (days)</text>
+<text x="450" y="190" class="big" text-anchor="middle">3</text>
+<text x="450" y="212" class="s" text-anchor="middle">Longest streak</text>
+<line x1="520" y1="60" x2="520" y2="240" stroke="#3b3d57"/>
+<text x="545" y="78" class="t" style="font-size:16px">Top languages</text>
+<text x="545" y="104" class="l">HTML</text>
+<text x="815" y="104" class="s" text-anchor="end">33.5%</text>
+<rect x="545" y="110" width="270" height="6" rx="3" fill="#2a2b3d"/>
+<rect x="545" y="110" width="90.3" height="6" rx="3" fill="#e34c26"/>
+<text x="545" y="134" class="l">TypeScript</text>
+<text x="815" y="134" class="s" text-anchor="end">23.6%</text>
+<rect x="545" y="140" width="270" height="6" rx="3" fill="#2a2b3d"/>
+<rect x="545" y="140" width="63.8" height="6" rx="3" fill="#3178c6"/>
+<text x="545" y="164" class="l">JavaScript</text>
+<text x="815" y="164" class="s" text-anchor="end">18.4%</text>
+<rect x="545" y="170" width="270" height="6" rx="3" fill="#2a2b3d"/>
+<rect x="545" y="170" width="49.6" height="6" rx="3" fill="#f1e05a"/>
+<text x="545" y="194" class="l">CSS</text>
+<text x="815" y="194" class="s" text-anchor="end">12.3%</text>
+<rect x="545" y="200" width="270" height="6" rx="3" fill="#2a2b3d"/>
+<rect x="545" y="200" width="33.2" height="6" rx="3" fill="#663399"/>
+<text x="545" y="224" class="l">Python</text>
+<text x="815" y="224" class="s" text-anchor="end">12.2%</text>
+<rect x="545" y="230" width="270" height="6" rx="3" fill="#2a2b3d"/>
+<rect x="545" y="230" width="33.0" height="6" rx="3" fill="#3572A5"/>
+<text x="820" y="286" class="s" text-anchor="end">Updated 11 Oct 2026, 13:42 UTC</text>
+</svg>
