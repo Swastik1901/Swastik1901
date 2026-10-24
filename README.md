@@ -1,37 +1,37 @@
-<h1 align="center">Swastik Kumar</h1>
+ <h1 align="center">Swastik Kumar</h1>
 
 <p align="center">
-  Full-stack developer &nbsp;·&nbsp; Privacy &nbsp;·&nbsp; Networking &nbsp;·&nbsp; Web
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=I+make+websites+pay+for+your+data.;I+read+packets+for+fun.+Yes%2C+really.;Full-stack+by+day%2C+proxy+whisperer+by+night.;Turning+coffee+into+commits." alt="Typing animation">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Patna%2C%20India-1f2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Patna, India">
 </p>
 
 <br>
 
-I'm a B.Tech student in Artificial Intelligence & Machine Learning at Heritage Institute of Technology, Patna. I like building at the intersection of **privacy, networking and the web**, the kind of projects where you have to understand what's happening on the wire, not just in the UI.
+B.Tech student in AI & ML at Heritage Institute of Technology. I like the kind of projects where you have to understand what's happening **on the wire**, not just in the UI. Privacy, networking and the web are my playground, and I break (then fix) things there on purpose.
 
 <br>
 
-## Currently
+## What I'm up to
 
-| | |
-|---|---|
-| **Building** | Privacy-enforcing tools and web experiences |
-| **Exploring** | TypeScript, 3D on the web (Three.js + Blender), applied AI |
-| **Ask me about** | Full-stack development, Node.js, MongoDB, MITM proxies, open source |
+- **Building:** privacy-enforcing tools and web experiences
+- **Exploring:** TypeScript, 3D on the web (Three.js + Blender), applied AI
+- **Ask me about:** full-stack development, Node.js, MongoDB, MITM proxies, open source
+- **Fun fact:** I built a proxy that negotiates a price with websites before they're allowed to see your data
 
 <br>
 
 ## Featured project
 
-### [Sentin-AL](https://github.com/Swastik1901/sentin-al) — privacy-enforcing proxy platform
+### [Sentin-AL](https://github.com/Swastik1901/sentin-al): a proxy that makes websites pay
 
 > What if websites had to *pay you* for your data?
 
-A privacy-first MITM proxy that intercepts HTTP/HTTPS traffic and runs a custom **Data Lease Negotiation Protocol**: a site must agree on a lease price before it receives data such as your location, device fingerprint or browsing activity.
+A privacy-first MITM proxy running a custom **Data Lease Negotiation Protocol**. A site agrees on a lease price before it gets your location, device fingerprint or browsing activity. If it refuses, it gets convincing fake data instead.
 
 ```mermaid
 flowchart LR
@@ -45,78 +45,76 @@ flowchart LR
     P --> L[Live dashboard + wallet]
 ```
 
-- **Data poisoning:** if a site refuses to pay, synthetic noise (fake GPS, randomized fingerprints, spoofed user agents) keeps your real data private.
-- **Rate cards:** MongoDB-backed, per-domain pricing across 20+ major websites.
-- **Live dashboard and wallet:** track transactions and claim privacy earnings in real time.
-- **On-the-fly TLS:** per-host certificates generated with node-forge to inspect HTTPS traffic.
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white" alt="Express">
   <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/Socket.io-1f2328?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io">
   <img src="https://img.shields.io/badge/node--forge-1f2328?style=flat-square" alt="node-forge">
-  <img src="https://img.shields.io/badge/http--mitm--proxy-1f2328?style=flat-square" alt="http-mitm-proxy">
 </p>
 
 <br>
 
-## Tech stack
+## More things I've built
+
+<table>
+  <tr>
+    <td><a href="https://github.com/Swastik1901/Vajra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swastik1901&repo=Vajra&theme=transparent&title_color=A78BFA&text_color=9ca3af&icon_color=A78BFA&hide_border=true" alt="Vajra"></a></td>
+    <td><a href="https://github.com/Swastik1901/RetinaVisionAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swastik1901&repo=RetinaVisionAI&theme=transparent&title_color=A78BFA&text_color=9ca3af&icon_color=A78BFA&hide_border=true" alt="RetinaVisionAI"></a></td>
+  </tr>
+</table>
+
+<br>
+
+## Toolbox
 
 <p>
-  <img src="https://img.shields.io/badge/HTML-1f2328?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1f2328?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-1f2328?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-1f2328?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/Three.js-1f2328?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
   <img src="https://img.shields.io/badge/Blender-1f2328?style=flat-square&logo=blender&logoColor=E87D0D" alt="Blender">
-  <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/Postman-1f2328?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
   <img src="https://img.shields.io/badge/Google%20Cloud-1f2328?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=F05032" alt="Git">
 </p>
 
 <br>
 
-## Recognition
+## Wins and community
 
-| Event | Result |
-|---|---|
-| Smart Bengal Hackathon 2025 | Finalist, Team Lead |
-| Hack n Solve, IGDTUW | Finalist |
-
-<br>
-
-## Open source & community
-
+- **Smart Bengal Hackathon 2025:** Finalist, Team Lead
+- **Hack n Solve, IGDTUW:** Finalist
 - **GirlScript Summer of Code 2024:** first open-source experience, contributed to Postman
 - **ECSoC 2026:** contributor
-- **Google Student Ambassador (2025)**
-- **GDG on Campus, Heritage Institute of Technology:** member
-- **Pull Shark** achievement on GitHub
+- **Google Student Ambassador (2025)** and member of **GDG on Campus, HIT**
+- **Certified:** Career Essentials in Generative AI (Microsoft & LinkedIn), Postman API Fundamentals, AI Fluency and Claude 101 (Anthropic)
 
 <br>
 
-## Certifications
+## Open to
 
-<p>
-  <img src="https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-1f2328?style=flat-square" alt="Career Essentials in Generative AI">
-  <img src="https://img.shields.io/badge/Postman%20API%20Fundamentals-Student%20Expert-1f2328?style=flat-square" alt="Postman API Fundamentals">
-  <img src="https://img.shields.io/badge/AI%20Fluency-Anthropic-1f2328?style=flat-square" alt="AI Fluency">
-  <img src="https://img.shields.io/badge/Claude%20101-Anthropic-1f2328?style=flat-square" alt="Claude 101">
-</p>
+| | |
+|---|---|
+| **Internships** | Full-stack, backend or applied AI roles |
+| **Open source** | Privacy, web and networking projects, happy to review or contribute |
+| **Collabs** | Hackathon teams and side projects that sound slightly too ambitious |
+
+Best way to reach me: [vardaan1901@gmail.com](mailto:vardaan1901@gmail.com) or [LinkedIn](https://www.linkedin.com/in/swastik-kumar19).
 
 <br>
 
-## Activity
+## Contribution snake
 
 <p align="center">
-  <img src="profile-3d-contrib/profile-3d.svg" alt="3D contribution graph" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swastik1901/Swastik1901/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Swastik1901/Swastik1901/output/github-snake.svg" alt="Contribution snake" width="100%">
+  </picture>
 </p>
 
 <p align="center">
-  <sub>Open to collaborating on privacy, web and open-source projects.</sub>
+  <sub>It eats my commits. Keep it fed.</sub>
 </p>
