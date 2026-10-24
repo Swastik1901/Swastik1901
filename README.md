@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
@@ -101,7 +101,7 @@ flowchart LR
 | **Open source** | Privacy, web and networking projects, happy to review or contribute |
 | **Collabs** | Hackathon teams and side projects that sound slightly too ambitious |
 
-Best way to reach me: [vardaan1901@gmail.com](mailto:vardaan1901@gmail.com) or [LinkedIn](https://www.linkedin.com/in/swastik-kumar19).
+Best way to reach me: [vardaan1901@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=vardaan1901@gmail.com) or [LinkedIn](https://www.linkedin.com/in/swastik-kumar19).
 
 <br>
 
