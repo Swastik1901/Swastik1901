@@ -1,13 +1,12 @@
  <h1 align="center">Swastik Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=I+make+websites+pay+for+your+data.;I+read+packets+for+fun.+Yes%2C+really.;Full-stack+by+day%2C+proxy+whisperer+by+night.;Turning+coffee+into+commits." alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=I+am+a+dev+(3000).;I+read+packets+for+fun.+Yes%2C+really.;Full-stack+by+day%2C+proxy+whisperer+by+night.;Turning+coffee+into+commits." alt="Typing animation">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/swastik-kumar19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:vardaan1901@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Patna%2C%20India-1f2328?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Patna, India">
 </p>
 
 <br>
